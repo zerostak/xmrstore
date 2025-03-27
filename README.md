@@ -2,4 +2,4 @@
 Monero store in development
 
 ### Preview
-![xmrstore](https://github.com/user-attachments/assets/06adb548-5b32-4429-a73f-5be7437a6e16)
+![xmrstore](https://github.com/user-attachments/assets/2d17603c-8305-4252-b6e0-bb9d34f56192)
